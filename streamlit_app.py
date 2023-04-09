@@ -35,7 +35,7 @@ if __name__ == '__main__':
     
 if choice == "Home":
     """ asghgferghgfdsdfbdfg """
-elif choice == "Dataset"
+elif choice == "Dataset":
     st.subheader("Dataset")
     data_file = st.file_uploader(" Upload CSV ", type=["csv"])
     if data_file is not None:
