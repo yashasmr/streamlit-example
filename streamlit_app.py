@@ -31,7 +31,7 @@ def main():
     return
     
 if __name__ == '__main__':
-    choice == main()
+    main()
     
 # if choice == "Home":
 #     """ asghgferghgfdsdfbdfg """
