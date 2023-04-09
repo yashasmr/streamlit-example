@@ -10,7 +10,7 @@ def main():
     st.title(" Prediction")
     
     menu = ["Home","Dataset"]
-    choice = st.sidebar.selectboc("Menu",menu)
+    choice = st.sidebar.selectbox("Menu",menu)
     
     if choice == "Home":
         st.subheader("Home")
